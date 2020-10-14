@@ -15,7 +15,7 @@ uso de cada una:
 <img src="https://latex.codecogs.com/gif.latex?\text{si}x\eqslantless{p*e}\implies{f(x)}" /> 
 <img src="https://latex.codecogs.com/gif.latex?\text{si}x>p*e\implies{g(x)}" /> 
 
-donde:
+### donde:
 
 **x** = puntaje del alumno
 
