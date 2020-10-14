@@ -1,6 +1,6 @@
 # Calculo nota 🧮
 
-Para calcular la nota del alumno se ocupara la siguiente formula
+Para calcular la nota del alumno con niveles de exigencia, notas maximas, notas minimos y puntajes totales usar
 
 ## Notación matematica
 **f(x)** representa la recta para puntajes bajo o igual a el nivel minimo
